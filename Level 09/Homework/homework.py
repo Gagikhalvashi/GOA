@@ -1,0 +1,7 @@
+print("გაგი")
+print("ხალვაში")
+print("13")
+print("საქართველო")
+print("bmw m5 f90")
+print("წითელი")
+print("21")

@@ -1,0 +1,5 @@
+user_name = input("sheiyvane saxeli: ")
+user_surname = input("sheiyvane gvari: ")
+user_age= int(input("sheiyvane asaki: "))
+user_country = input("sheiyvane qveyana: ")
+print(user_name + " " + user_surname + " "+ str(user_age) + " " + user_country)
